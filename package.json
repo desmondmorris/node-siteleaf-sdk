@@ -1,6 +1,6 @@
 {
   "name": "siteleaf-sdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A node.js port of the Siteleaf gem",
   "main": "index.js",
   "scripts": {
