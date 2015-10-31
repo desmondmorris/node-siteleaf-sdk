@@ -1,7 +1,7 @@
 {
   "name": "siteleaf-sdk",
   "version": "0.0.2",
-  "description": "A node.js port of the Siteleaf gem",
+  "description": "An unofficial API wrapper library for interacting with the Siteleaf.",
   "main": "index.js",
   "scripts": {
     "lint": "standard",
