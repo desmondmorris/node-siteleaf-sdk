@@ -56,7 +56,7 @@ Simply pass the path, optional parameters and a callback function.
 ```javascript
 
 // List all users
-siteleaf.post('users', (error, response) => {
+siteleaf.get('users', (error, response) => {
   console.log(error, response)
 })
 
