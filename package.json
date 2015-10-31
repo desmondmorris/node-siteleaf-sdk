@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "A node.js port of the Siteleaf gem",
   "main": "index.js",
-  "bin": {
-    "siteleaf": "./bin/siteleaf"
-  },
   "scripts": {
     "lint": "standard",
     "test": "tape test/**/**.js",
