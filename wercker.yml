@@ -1,0 +1,12 @@
+box: nodesource/trusty
+# Build definition
+build:
+  # The steps that will be executed on build
+  steps:
+    - script:
+        name:
+        code: export NODE_ENV=development
+    # A step that executes `npm install` command
+    - npm-install
+    # A step that executes `npm test` command
+    - npm-test

@@ -3,6 +3,7 @@
 
 An unofficial API wrapper library for interacting with the [Siteleaf](https://github.com/siteleaf/siteleaf-api).
 
+[![wercker status](https://app.wercker.com/status/8a942ddc12e6499c8ac0e58dac9e6ebe/s/master "wercker status")](https://app.wercker.com/project/bykey/8a942ddc12e6499c8ac0e58dac9e6ebe)
 
 ```javascript
 let siteleaf = new Siteleaf({
