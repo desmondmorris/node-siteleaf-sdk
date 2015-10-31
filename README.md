@@ -5,6 +5,8 @@ An unofficial API wrapper library for interacting with the [Siteleaf](https://gi
 
 [![wercker status](https://app.wercker.com/status/8a942ddc12e6499c8ac0e58dac9e6ebe/s/master "wercker status")](https://app.wercker.com/project/bykey/8a942ddc12e6499c8ac0e58dac9e6ebe)
 
+[![npm/siteleaf-sdk](https://nodei.co/npm/siteleaf-sdk.png?mini=true)](https://www.npmjs.com/package/siteleaf-sdk)
+
 ```javascript
 let siteleaf = new Siteleaf({
   apiKey: 'xxx',
