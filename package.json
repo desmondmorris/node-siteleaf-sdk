@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/desmondmorris/node-siteleaf.git"
+    "url" : "https://github.com/desmondmorris/node-siteleaf-sdk.git"
   },
   "scripts": {
     "lint": "standard",
